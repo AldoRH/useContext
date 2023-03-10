@@ -47,16 +47,18 @@
 }
 
 .TarjetaContainer{
+  width:30%;
+  height:45%;
   margin-right: 25%;
   margin-left: 25%;
   margin-top: 5%;
   margin-bottom: 5%;
-  padding: 5%;
+  padding: 2%;
   border-style: solid;
   border-color: black;
   font-weight: bold;
-  font-size: 150%;
-
+  font-size: 100%;
+  
 }
 
 .BodyContainer{
